@@ -1,0 +1,4 @@
+1. Need to convert the manual arrays into vectors
+2. Need to integrate the values of gatePower, delay, q-pindelay all in the respective structs.
+3. Make it dividiable into different files, for better management.
+
